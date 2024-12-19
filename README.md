@@ -22,6 +22,10 @@ Pontos extras:
 - Usar alguma ferramenta de regressão visual;
 - Documentação;
 
-Em caso de dúvidas entre em contato com a pessoa que te passou este desafio.
 
-Boa sorte.
+
+# Instalação
+
+# Como Rodas os Testes?
+
+# Explicações e Detalhamento do Projeto
