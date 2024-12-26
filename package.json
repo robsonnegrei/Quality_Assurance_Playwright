@@ -1,0 +1,14 @@
+{
+  "name": "quality_assurance_playwright",
+  "version": "1.0.0",
+  "description": "Você deve implementar testes e2e utilizando Cypress ou playwright na página da [Wikipedia](https://www.wikipedia.org)",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  }
+}
