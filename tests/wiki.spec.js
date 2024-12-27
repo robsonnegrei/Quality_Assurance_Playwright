@@ -29,7 +29,7 @@ test('Pesquisa por "Brasil"', async ({ page }) => {
 });
 
 // validando o conteudo principal da pagina de busca do Brasil na wikipedia
-test('Pesquisa por "Brasil" e verifica o título', async ({ page }) => {
+test('Verifica se a Pagina Wiki do resultado para a busca "Brasil" contém os textos e seletores principais', async ({ page }) => {
     await page.goto('https://www.wikipedia.org/');
 
     await page.locator('#searchInput').fill('Brazil')
